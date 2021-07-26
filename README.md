@@ -7,7 +7,6 @@
 - 💬 Ping me about **Android**, **Website**, **laravel**, **development**, **design thinking**
 - ⚡️ Fun fact: I'm a huge fan of **Mr.robot** and :heart: :dog:s
 
-📊 **This week I spent my time on**
 
 ![budiliauw87 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=budiliauw87&hide_border=true&layout=compact)
 
