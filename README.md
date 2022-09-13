@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-#### I'm a Full-Stack Developer working in Jakarta, Indonesia.
+#### I'm Budi live in Jakarta, Indonesia.
 
-- 🔭 I’m currently working on something cool
-- 🌱 I’m currently learning Flutter, Go, Python
+- 🌱 I’m currently learning Flutter, Python
 - 💬 Ping me about **Android**, **Website**, **laravel**, **development**, **design thinking**
 - ⚡️ Fun fact: I'm a huge fan of **Mr.robot** and :heart: :dog:s
 
